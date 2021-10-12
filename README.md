@@ -21,7 +21,7 @@ wavelet-monodepth：RGB图像的深度估计，wavelet顾名思义，就使用�
 ![image](./demo.jpg)
 ### 相关资源
 1. [百度网盘](https://pan.baidu.com/s/1uzOXPqXM2RsTczJpcbwiKA)，提取码：6666
-2. [知乎文章]()
+2. [知乎文章](https://zhuanlan.zhihu.com/p/419076068)
 ### 目前问题
 1. 慢
 2. wavelet小波部分转换疑似有问题，效果不好，而且安卓端和pc端的差异貌似也比较大
